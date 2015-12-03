@@ -154,7 +154,6 @@ An **absolute file path** specifies the complete path to a file, ignoring your c
 4. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. The advanced commands below may be helpful to you!
 
 
-
 ### Advanced commands
 
 ##### `cut`
