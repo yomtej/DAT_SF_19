@@ -71,7 +71,7 @@ Black Beans is more popular
 ##Question 2
 *Make a list of all of the CSV or TSV files in the DAT7 repo (using a single command). Think about how wildcard characters can help you with this task.*
 
-`find . -name ‘*.[ct]sv`
+`find . -name '*\.[ct]sv'`
 
 ##Question 3
 *Count the number of occurrences of the word `dictionary` (regardless of case) across all files in the DAT7 repo*
@@ -121,6 +121,7 @@ Diet Dr. Pepper | 13
 
 
 **Most Popular Salsa Base**
+
 `cut -f4 chipotle.tsv | cut -f1 -d, |grep -i "salsa"| sort | uniq -c | sort -nr`
 
 Salsa Base | Number of Orders
