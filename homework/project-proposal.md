@@ -24,12 +24,12 @@ The training data used for this project would be:
 
 ##Motivation for choosing this project
 
-I was interested in building karaoke for Afrobeas songs (West Africa Music). However unlike popular western music, it is impossible to find karaoke versions of these songs. I thought about building them manually using the tools available online but this would require significant resources and time. If there was a way to do this automatically, karaoke can be built at scale. This can also be used for many other applications such as: 
+I was interested in building karaoke for Afrobeats songs (West African Music). However unlike popular western music, it is impossible to find karaoke versions of these songs. I thought about building them manually using the tools available online but this would require significant resources and time. If there was a way to do this automatically, karaoke can be built at scale. This can also be used for many other applications such as: 
 
 **Gaming:** Guitar Hero / Rock Band - can help reduce the time to sync lyrics with music and as a result reduce game development time
 
-**Karaoke outlets:** Many of them have only old songs because of the time it takes to make karaoke and add it to their database. With this, they would be able to add songs to their database quickly and have the latest songs. As a result, increasing their customer base.
+**Karaoke outlets:** Many of them have only old songs because of the time it takes to make karaoke and add it to their database. With this solution, they would be able to add songs to their database quickly and have the latest songs. As a result, increasing their customer base.
 
-**Non-english karaoke:** Karaoke is dominated by only ENglish and Chinese songs. This would create an opportunity for people to create karaoke in any language, for any song!
+**Non-english karaoke:** Karaoke is dominated by only ENglish and Chinese songs. This solution would create an opportunity for people to create karaoke in any language, for any song!
 
 This will be really tough, but I am determined... Good luck to me!
