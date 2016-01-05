@@ -2,7 +2,7 @@
 
 ##The Problem 
 
-**Karaoke Synch** is the process of syncing the lyrics with the music. To allow the performer to sing along, the words need to be highlighted as they should be sung. 
+**Karaoke Synch** is the process of creating karaoke by syncing the lyrics with the music. To allow the performer to sing along, the words need to be highlighted as they should be sung. 
 
 This process is manual. There are many tools available to help you create a karaoke, but they all involve an extreme amount of manual intervention and the process of creating one 3 minute song karaoke could take at least 2 hours. 
 
